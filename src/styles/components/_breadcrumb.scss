@@ -1,0 +1,7 @@
+@use "../abstracts/" as *;
+
+.header {
+  .breadcrumb-1st {
+    color: $font-grey-light;
+  }
+}

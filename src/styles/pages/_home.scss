@@ -1,0 +1,7 @@
+@use "../abstracts/index" as *;
+
+.home {
+  padding: 10px 20px;
+  background-color: $background-gray;
+  height: 100vh;
+}

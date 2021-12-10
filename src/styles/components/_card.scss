@@ -1,0 +1,16 @@
+@use "../abstracts/" as *;
+
+.main-content {
+  display: flex;
+  gap: 20px;
+
+  .card {
+    background-color: $background-white;
+    width: 300px;
+    border-radius: 5px;
+  }
+
+  .upper-card {
+    width: 100%;
+  }
+}
